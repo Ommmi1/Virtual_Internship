@@ -4,7 +4,7 @@ Welcome to my Virtual Internship repository! This is where I have compiled all m
 
 ## Why This Repository?
 
-One common challenge in the cybersecurity field is having access to a plethora of materials and resources, but not knowing where to start or how to progress. This repository aims to solve that problem by providing a structured approach to learning. The documents for each task serve as a step-by-step guide to help you navigate and learn.
+One common challenge in the cybersecurity field is having access to a plenty of materials and resources, but not knowing where to start or how to progress. This repository aims to solve that problem by providing a structured approach to learning. The documents for each task serve as a step-by-step guide to help you navigate and learn.
 
 ## What You'll Find Here
 
